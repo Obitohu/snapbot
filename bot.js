@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 // ===== SETTINGS =====
 const USERNAME = 'obitopapa267536';
 const PASSWORD = '70670882.Ka';
-const GROUP_ID = '5d323893-37d1-4272-bd0c-bec055ffab89';
+const GROUP_ID = '0b8e17b7-d9a2-4a8a-bf2d-c5024b8cea0a';
 
 const NAMES = [
   'OBITO ON TOP',
